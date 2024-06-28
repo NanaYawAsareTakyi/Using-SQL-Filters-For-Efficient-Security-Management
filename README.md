@@ -27,7 +27,7 @@ Addressing security issues and finding effective solutions using SQL queries and
 Documenting security findings, actions taken, and updates to maintain a clear record of security measures implemented.
 
 ## Tools used
-#### SQL
+ <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=SQL&logoColor=white" />
 
 ## Workflow
 #### Retrieve after-hours failed login attempts:
